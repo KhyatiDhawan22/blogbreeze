@@ -6,12 +6,12 @@
    display:flex;
    justify-content: space-between;
     background-color:#f8f7f3;
-    padding: 40px 80px 90px;
+    padding: 40px 200px 90px;
 }
 
 .heading{
     color:#2B2B2B;
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 700;
     line-height: 1em;
     

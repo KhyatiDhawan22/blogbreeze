@@ -150,7 +150,7 @@ footer{
 }
 
 .top{
-    height: 178px;
+    height: 250px;
     width: 100%;
     padding: 25px 0;
     background-color: #313131;
@@ -166,7 +166,7 @@ footer{
 }
 
 .top img{
-    width: 38px;
+    width: 48px;
     border-radius: 38px;
 }
 
@@ -187,8 +187,8 @@ footer{
     border: 1px solid #555;
     box-sizing: border-box;
 
-    width: 320px;
-    height: 40px;
+    width: 10px;
+    height: 50px;
 
     transition: all 0.2s ease;
 }
