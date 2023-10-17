@@ -63,8 +63,8 @@
 
 
 /*email box and join button*/
-.email-box1{
-  width: 500px; /* Adjust the width to your desired value */
+.email-box{
+  width: 50px; /* Adjust the width to your desired value */
   /* Additional styling properties */
   height: 30px;
   display: flex;
@@ -75,7 +75,7 @@
 
   /* Add other styles as needed */
 }
-.email-box1 input{
+.email-box input{
   box-sizing: border-box;
   width: 100%;
   height:inherit;
@@ -91,19 +91,19 @@
 
 
 
-.email-box1 input::placeholder {
+.email-box input::placeholder {
   color: #807f7f;
   font-size: 13px;
   font-family: 'Poppins', sans-serif;
 }
 
-.email-box1 input:focus {
+.email-box input:focus {
   outline: none;
   border: 1px solid purple;
 
 }
 
-.email-box1 .btn1 {
+.email-box .btn{
   
   box-sizing: border-box;
   cursor: pointer;
@@ -116,11 +116,11 @@
     border-radius: 5px;
 }
 
-.email-box1 .btn1:hover {
+.email-box .btn:hover {
   background-color: #5d2172;
 }
 
-.email-box1 .btn1:active {
+.email-box .btn:active {
   background-color: #5d2172;
 }
 
