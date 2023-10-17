@@ -217,13 +217,7 @@ body{
     left: 0.9%;
     
   }
-  .divider1{
-    border-left: 1px solid rgb(204, 204, 204,0.6);
-    height:350%;
-    position: absolute;
-    right: 27%;
 
-  }
 
 .subtext {
     display: flex;
