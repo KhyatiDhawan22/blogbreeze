@@ -16,14 +16,7 @@
 
 /*vertical bar*/
 
-.divider {
-  border-left: 1px solid rgb(204, 204, 204,0.6);
-  height: 100%; 
-  position: absolute;
-  left: 0.9%;
-  
-  
-}
+
 
 /*Search Bar*/
 .inputContainer{
@@ -154,7 +147,13 @@
   font-weight: 700;
   
 }
-
+h2{
+  font-weight: 600;
+  color: #393838;
+}
+p{
+  font-weight: 400;
+}
 
 body{
   font-family: 'Poppins', sans-serif;
@@ -218,6 +217,13 @@ body{
     left: 0.9%;
     
   }
+  .divider1{
+    border-left: 1px solid rgb(204, 204, 204,0.6);
+    height:350%;
+    position: absolute;
+    right: 27%;
+
+  }
 
 .subtext {
     display: flex;
@@ -275,6 +281,7 @@ body{
     padding-left: 813px;
     padding-bottom: 48px;
   }
+ 
 
   .button {
     width: 40px;
@@ -286,7 +293,7 @@ body{
     font-size: 16px;
     cursor: pointer;
     margin-right: 5px; 
-    font-weight: bold; 
+    font-weight: 400; 
     border-radius: 2px;
   }
 
